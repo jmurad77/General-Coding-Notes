@@ -12,6 +12,7 @@
 - In command mode jump to a specific line number '[line number]G'
 - To cut line 'dd'
 - To cut a number of lines '[number of lines]dd'
+- To copy line(s) press 'y'
 - To paste 'p'
 - to search for keyword '/wordTosearch' + enter
 - to go to the new search word press n, go to previous type N
